@@ -115,7 +115,7 @@ switch (mode) {
         Htmlscript(modwebsite);
         break;	
     case 'legendmod': default:
-        modwebsite = 'https://legendmod.ml/play2.html'
+        modwebsite = 'https://panouk.github.io/mod/justplay.html'
         Htmlscript(modwebsite);
         break;
 }
